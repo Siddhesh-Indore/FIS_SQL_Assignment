@@ -179,3 +179,6 @@ Give the alias name as Count_Customer for number of customers
 For example the branch B00019 has 3 customers, B00020 has 7 and B00021 has 10. So branch id B00021 is having maximum customers. If B00021 is Koramangla branch Bangalore, Koramangla branch should be displayed along with city name Bangalore.
 In case of multiple records, display the records sorted in ascending order based on branch name.
 10)Write a query to display the number of customer’s from Delhi. Give the count an alias name of Cust_Count.
+
+
+https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwin0qjtp7n6AhUn5XMBHbZoC2UQFnoECA4QAQ&url=https%3A%2F%2Fwww.codersarts.com%2Fforum%2Fdatabase-schema%2Fbank-database-queries-with-solution-using-mysql&usg=AOvVaw3h1ePdgHLQ7nyAHwe_GaA9
