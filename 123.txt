@@ -1,3 +1,5 @@
 https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-20-04
 
 https://rpsconsulting-my.sharepoint.com/personal/ulhas_bhandwalkar_rpsconsulting_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fulhas%5Fbhandwalkar%5Frpsconsulting%5Fin%2FDocuments%2FScenario%20Based%20evaluation%2D%20Tech%20Jul%2005%20Handson&ct=1664527507720&or=Teams%2DHL&ga=1
+
+https://rpsconsulting-my.sharepoint.com/:f:/g/personal/ulhas_bhandwalkar_rpsconsulting_in/Epqi_L2o2GBMi7HNutCsDyMBWHeAWGvFwt_ddlHPW4lCag?e=GHeJyq
